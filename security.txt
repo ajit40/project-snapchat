@@ -1,3 +1,4 @@
 firewall
 incomming traffic
 new updates added
+2023 privacy updated
